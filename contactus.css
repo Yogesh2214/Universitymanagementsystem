@@ -1,0 +1,44 @@
+img {
+
+    display: block;
+    margin-left: 400px;
+    margin-right: 200px;
+    height: 340px;
+    padding: 2px;
+    }
+body{
+
+    background-image:  url("lpubg.jpg");
+    background-blend-mode: medium;
+}
+h1
+   {
+       text-align: center;
+       font-size: 65px;
+       text-shadow: 4px 4px 10px red;
+       background-image: linear-gradient(to left, green , silver , blue);
+}
+
+div {
+
+         color:  #ffff00;
+         background-color:#4ddbff;
+         text-align:center;
+
+}
+
+  h3 {
+  font-style: italic;
+  text-align:"center";
+  color:#ff1a1a;
+  background-color:#66ffff;
+
+
+}
+h4
+   {
+       text-align: center;
+       font-size: 40px;
+       text-shadow: 4px 4px 10px red;
+       background-image: linear-gradient(to left, #00ff00 , #00ffff , #ffff00);
+}
